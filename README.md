@@ -1,5 +1,3 @@
-# IT23356986-_ITPM-Assignment-1
-
 # IT23356986– IT3040 Assignment 1
 
 ##  Project Title
